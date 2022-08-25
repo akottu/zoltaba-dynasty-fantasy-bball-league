@@ -1,0 +1,93 @@
+* {
+    /* font-family: 'Kelly Slab', cursive; */
+    /* font-family: 'Abel', sans-serif; */
+    font-family: 'Advent Pro', sans-serif;
+}
+
+body {
+    background-color: #f7be6d;
+}
+
+nav {
+    width: 100%;
+    z-index: 1;
+    border-bottom: 1px black solid;
+    background-color: #f58216;
+    margin-bottom: 23%;
+}
+
+h1 {
+    font-family: 'Kelly Slab', cursive;
+    font-size: 48px;
+}
+
+.btn {
+    width: 100%;
+    background-color: #f58216;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    color: #f58216;
+}
+
+h2, h3, h4 {
+    font-family: 'Kelly Slab', cursive;
+    color: #f58216;
+}
+
+.card {
+    width: 100%;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: underline;
+    color: #f58216;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+span {
+    font-family: 'Kelly Slab', cursive;
+}
+
+.season-champion {
+    color: black;
+    text-align: center;
+}
+
+.ranking {
+    border-left: 1px #f58216 solid;
+    border-right: 1px #f58216 solid;
+    border-radius: 10px;
+    padding: 24px;
+}
+
+.ranking-btn {
+    border-radius: 10px;
+    border: 1px #f58216 solid;
+    margin: 12px;
+}
+
+.power-rankings-2023 {
+    margin: 1%;
+    padding: 1%;
+}
+
+.power-rankings-author-date {
+    float: right;
+}
+
+.qualified-seed {
+    color: #f58216;
+}
