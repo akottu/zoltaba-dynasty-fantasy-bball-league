@@ -1,7 +1,8 @@
 * {
     /* font-family: 'Kelly Slab', cursive; */
     /* font-family: 'Abel', sans-serif; */
-    font-family: 'Advent Pro', sans-serif;
+    /* font-family: 'Advent Pro', sans-serif; */
+    font-family: 'Baloo 2', cursive;
 }
 
 body {
@@ -17,7 +18,7 @@ nav {
 }
 
 h1 {
-    font-family: 'Kelly Slab', cursive;
+    /* font-family: 'Kelly Slab', cursive; */
     font-size: 48px;
 }
 
@@ -32,7 +33,7 @@ h1 {
 }
 
 h2, h3, h4 {
-    font-family: 'Kelly Slab', cursive;
+    /* font-family: 'Kelly Slab', cursive; */
     color: #f58216;
 }
 
